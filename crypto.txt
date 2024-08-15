@@ -1,0 +1,7 @@
+wss://ws.coincap.io/prices?assets=bitcoin,ethereum
+
+bitcoin
+ethereum
+Dogecoin 
+Binance Coin
+Toncoin 
