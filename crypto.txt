@@ -1,4 +1,4 @@
-jakfdajs;fklajsdss://ws.coincap.io/prices?assets=bitcoin,ethereum
+jakfdsfadsfasajs;fklajsdss://ws.coincap.io/prices?assets=bitcoin,ethereum
 bitcoin
 ethereum
 Dogecoin 
